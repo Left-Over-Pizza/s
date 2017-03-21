@@ -9,5 +9,18 @@
     "afk_message" : "",
     "cmd_prefix": ".",
     "customcmd_prefix": ".",
-    "bot_identifier": ":pizzaslice:"
+    "bot_identifier": ":pizzaslice:",
+    "HEROKU_KEEPALIVE_URL": {
+      "description": "The URL to your heroku app",
+      "value": "https://selfb1.herokuapp.com/"
+    },
+    "NPM_CONFIG_PRODUCTION": {
+      "description": "Set to false to devDependencies are installed as well",
+      "value": "false"
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 1
+    },
 }
