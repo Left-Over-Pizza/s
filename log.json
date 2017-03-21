@@ -1,0 +1,17 @@
+{
+    "log_location": "290109210413236224 288390647860297728",
+    "log_size": "500",
+    "blacklisted_users": [],
+    "context_len": "10",
+    "blacklisted_servers": [],
+    "allservers": "True",
+    "blacklisted_words": [],
+    "servers": [
+        288390647860297728
+    ],
+    "keywords": [
+        "pizzas",
+        "Kimi No Nawa",
+        "Your Name"
+    ]
+}

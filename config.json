@@ -7,6 +7,7 @@
     "mal_password" : "Kawangware254",
     "set_afk" : "off",
     "afk_message" : "",
-    "cmd_prefix": "]",
+    "cmd_prefix": ".",
     "customcmd_prefix": ".",
     "bot_identifier": ":pizzaslice:"
+}

@@ -1,4 +1,5 @@
-*.iml
-*.ipr
-target/
-dependency-reduced-pom.xml
+.google-cookie
+discord.log
+commands.json
+config.json
+.idea/
